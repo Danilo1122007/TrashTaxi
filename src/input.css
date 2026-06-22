@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+ --color-verdelixo: #15803d;
+ --color-pretolixo: #000000;
+ --color-brancolixo: #ffffff;
+ --color-cinzalixo: #1f2937;
+}
+
